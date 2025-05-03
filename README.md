@@ -9,15 +9,14 @@ recommendation-system/
 │
 ├── app/
 │   ├── app.py              # Flask application
-│   ├── templates/
+│   
 │   
 │
 ├── data/
 │   ├── movies.csv          # Movie metadata
 │   └── ratings.csv         # User ratings
 │
-├── model/
-│   └── similarity.pkl      # Cosine similarity matrix (optional saved model)
+|
 │
 ├── requirements.txt        # All dependencies
 └── README.md               # Project documentation
