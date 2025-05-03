@@ -1,6 +1,6 @@
 # 🎬 Movie Recommendation System
 
-A content-based movie recommender built with **Python**, **Pandas**, **Flask**, and **Cosine Similarity**, deployed locally. Given a movie title, it suggests similar movies using item-based collaborative filtering.
+A content-based movie recommender built with Python, Pandas, Flask, and Cosine Similarity, deployed locally. Given a movie title, it suggests similar movies using item-based collaborative filtering.
 
 ## 📁 Project Structure
 
@@ -64,29 +64,24 @@ http://127.0.0.1:5000/recommend?movie=Toy Story (1995)&n=5
 }
 ```
 
-## 📊 Dataset Used
+## Dataset Used
 
 - [MovieLens 100K Dataset](https://grouplens.org/datasets/movielens/)
 - Contains:
   - `movies.csv` — movieId, title
   - `ratings.csv` — userId, movieId, rating
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - Python
 - Pandas & Scikit-learn
 - Flask
 - Cosine Similarity
 
-## ✅ Features
+## Features
 
 - Recommend similar movies based on user ratings
 - Simple API endpoint
 - Easy to extend with a UI or deep learning model
 
-## 📌 To-Do
 
-- [ ] Add a search UI
-- [ ] Deploy on Render/Heroku
-- [ ] Add genre filtering
-- [ ] Improve recommendation quality using hybrid models
