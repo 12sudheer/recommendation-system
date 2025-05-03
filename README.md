@@ -10,7 +10,7 @@ recommendation-system/
 ├── app/
 │   ├── app.py              # Flask application
 │   ├── templates/
-│   │   └── index.html      # (Optional UI - if added)
+│   
 │
 ├── data/
 │   ├── movies.csv          # Movie metadata
