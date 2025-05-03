@@ -27,7 +27,7 @@ recommendation-system/
 
 ### 1. Clone the repo:
 ```bash
-git clone https://github.com/yourusername/recommendation-system.git
+git clone https://github.com/12sudheer/recommendation-system.git
 cd recommendation-system
 ```
 
